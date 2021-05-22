@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(67, 67, 238);
+}
+
+.header{
+    border: solid; 
+    background-color: yellow
+ }
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+    border: solid;
+    background-color: cyan;
+}
+
+.end{
+    border:solid
+}
+
+p{
+    color: rgb(32, 175, 13);
+    font-size: x-large
+}
+
+a{
+    color: rgb(255, 251, 0);
+    font-size:xx-large;
+    font-stretch: extra-condensed;
+    font-weight: 500;
+}
+
+h1,h2{
+    font-style:italic;
+    font-size: xx-large;
+}
